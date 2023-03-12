@@ -1,14 +1,14 @@
 {
-    "model":1,
-    "url_api":"https://assas.sas/saddasd/asdas/dasd",
+    "model_id": 1,
+    "url_api":"",
     "fw": {
-        "last_version": 1.1,
-        "url":"http://ss.ss/fw.bin",
+        "last_version": 1.0,
+        "url":"https://cloud.noo.by/fw/noohub/fw1_1.bin",
         "md5":"",
         "date":"12-12-2023 23:23"
     },
     "webui": {
-        "last_version":1.1,
+        "last_version":1.0,
         "url":"http://ss.ss/webui.bin",
         "md5":""
     }
