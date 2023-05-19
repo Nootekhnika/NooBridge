@@ -1,15 +1,14 @@
 {
     "model_id": 1,
-    "url_api":"",
+    "url_api": "",
     "fw": {
         "last_version": 1.0,
-        "url":"https://cloud.noo.by/fw/noohub/fw1_1.bin",
-        "md5":"",
-        "date":"12-12-2023 23:23"
+        "url":"https://noocloud.by/fw/noohub_v1_0/dev/firmware.bin",
+        "md5":""
     },
     "webui": {
         "last_version":1.0,
-        "url":"http://ss.ss/webui.bin",
-        "md5":""
+        "url":"https://noocloud.by/fw/noohub_v1_0/dev/storage_webui.bin",
+        "md5":"366de062c805415c4ddeeb7eea0ee69f"
     }
 }
