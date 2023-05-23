@@ -2,13 +2,13 @@
     "model_id": 1,
     "url_api":"",
     "fw": {
-        "last_version": 1.1,
+        "last_version": 1.0,
         "url":"https://noocloud.by/fw/noohub_v1_0/fw/fw_1_1.bin",
         "md5":"",
         "date":"" 
     },
     "webui": {
-        "last_version":1.1,
+        "last_version":1.0,
         "url":"https://noocloud.by/fw/noohub_v1_0/webui/storage_webui_1_1.bin",
         "md5":"508c405c6ef8516e747090c34ae8fe50"
     }
